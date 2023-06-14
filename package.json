@@ -1,0 +1,17 @@
+{
+  "name": "focusrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bingoChallenge.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.32.0"
+  }
+}
